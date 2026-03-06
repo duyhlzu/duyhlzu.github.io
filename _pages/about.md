@@ -96,7 +96,7 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 - *2017.09 - 2020.06*, **Nan chang No.2 Middle School**.
 
 # 🔬 Academic Exchange
-- *2025.09 - 2026.09 (expected)*, **Visiting Student**, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS), China. Advisor: **Associate Prof. Baoxiang Pan**.
+- *2025*, **Visiting Student**, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS), China. Advisor: **Associate Prof. Baoxiang Pan**.
 
 # Academic Services
 - Reviewer for **ICASSP 2026**
