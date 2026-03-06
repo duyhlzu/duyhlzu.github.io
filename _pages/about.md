@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an M.S. student at the College of Atmospheric Sciences, **Lanzhou University (兰州大学)**, supervised by **Prof. Jiankai Zhang (张健恺教授)**. From **2025 to 2026**, I am also a visiting student at the Institute of Atmospheric Physics, **Chinese Academy of Sciences (IAP, CAS)**, where I work with **Associate Prof. Baoxiang Pan (潘宝祥副研究员)** on the application of video diffusion models to meteorological forecasting. I received my B.S. in **Information and Computing Science** from **Central South University of Forestry and Technology** in 2024, where I was supervised by **Associate Prof. Hui Liu (刘晖副教授)**.
+I am currently an M.S. student at the College of Atmospheric Sciences, **Lanzhou University (兰州大学)**, supervised by Prof. ([Jiankai Zhang (张健恺教授)](https://scholar.google.com/citations?hl=zh-CN&user=9QurDQkAAAAJ)).. From **2025 to 2026**, I am also a visiting student at the Institute of Atmospheric Physics, **Chinese Academy of Sciences (IAP, CAS)**, where I work with **Associate Prof. Baoxiang Pan (潘宝祥副研究员)** on the application of video diffusion models to meteorological forecasting. I received my B.S. in **Information and Computing Science** from **Central South University of Forestry and Technology** in 2024, where I was supervised by **Associate Prof. Hui Liu (刘晖副教授)**.
 
 My research focuses on the intersection of **artificial intelligence and atmospheric science**, with particular interests in **video prediction**, **video diffusion models**, **weather and climate modeling**, **precipitation nowcasting**, and **spatiotemporal predictive learning**. I am especially interested in developing learning-based approaches for complex atmospheric processes and extreme event prediction.
 
@@ -91,7 +91,7 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 - *2023*: National Undergraduate Innovation and Entrepreneurship Training Program Project.
 
 # 📖 Educations
-- *2024.09 - 2027.06 (expected)*, **Lanzhou University**, College of Atmospheric Sciences, M.S. Student. Advisor: **Prof. Jiankai Zhang**. ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=9QurDQkAAAAJ)).
+- *2024.09 - 2027.06 (expected)*, **Lanzhou University**, College of Atmospheric Sciences, M.S. Student. Advisor: **Prof. Jiankai Zhang**.
 - *2020.09 - 2024.06*, **Central South University of Forestry and Technology**, School of Computer Science and Mathematics, B.S. in Information and Computing Science. Advisor: **Associate Prof. Hui Liu**.
 - *2017.09 - 2020.06*, **Nan chang No.2 Middle School**.
 
