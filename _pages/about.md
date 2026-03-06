@@ -26,77 +26,54 @@ You can find more details on my publications through my <a href='https://scholar
 
 # 🔥 News
 - *2026*: &nbsp;One paper, **GMG: A Video Prediction Method Based on Global Focus and Motion Guided**, was published in **IEEE Transactions on Circuits and Systems for Video Technology**.
-- *2025*: &nbsp;Received the **National Scholarship for Master’s Students**.
 - *2025*: &nbsp;Published **A Global Spatial–Temporal Attention Method Based on Motion Decomposition for Precipitation Nowcasting** in **Applied Soft Computing**.
 - *2025*: &nbsp;Published **Predicting Sudden Stratospheric Warmings Using Video Prediction Methods** in **Geophysical Research Letters**.
-- *2023*: &nbsp;Won **Finalist** in the **Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)**.
+- *2023*: &nbsp;Published **A new hybrid prediction method of El Niño/La Niña events by Combining TimesNet and ARIMA** in **IEEE Access**.
 
-# 📝 Publications 
+# 📝 Publications
+
+> *CAS partition information may vary by year. The labels below are for homepage display only.*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/500x300.png' alt="GMG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GMG: A Video Prediction Method Based on Global Focus and Motion Guided](#)
+[GMG: A Video Prediction Method Based on Global Focus and Motion Guided](https://ieeexplore.ieee.org/abstract/document/11361248/)
 
 **Y. Du**, H. Liu, H. Peng, X. Cheng, C. Wu, J. Zhang
 
 *IEEE Transactions on Circuits and Systems for Video Technology*, 2026
 
+**Journal Info:** **CCF B** | CAS Partition: **Top Journal**
+
 - A video prediction method that integrates global focus and motion-guided modeling for spatiotemporal prediction tasks.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASC 2025</div><img src='images/500x300.png' alt="Nowcasting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2025</div><img src='images/500x300.png' alt="Nowcasting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Global Spatial–Temporal Attention Method Based on Motion Decomposition for Precipitation Nowcasting](#)
+[A Global Spatial–Temporal Attention Method Based on Motion Decomposition for Precipitation Nowcasting](https://www.sciencedirect.com/science/article/abs/pii/S1568494625006258)
 
 **Y. H. Du**, Y. H. Li, Z. Z. Zeng, H. Liu, J. K. Zhang
 
 *Applied Soft Computing*, **180**, 113314, 2025
 
+**Journal Info:** CAS Partition: **Top Journal**
+
 - A global spatiotemporal attention framework based on motion decomposition for precipitation nowcasting.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL 2025</div><img src='images/500x300.png' alt="SSW" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [**Predicting Sudden Stratospheric Warmings Using Video Prediction Methods**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL113993)  
+  **Y. Du**, J. Zhang, X. Cheng, Y. Lu, D. Li, W. Tian  
+  *Geophysical Research Letters*, **52**(8), e2024GL113993, 2025  
+  **Journal Info:** CAS Partition: **Top Journal**
 
-[Predicting Sudden Stratospheric Warmings Using Video Prediction Methods](#)
+- [**A New Hybrid Prediction Method of El Niño/La Niña Events by Combining TimesNet and ARIMA**](https://ieeexplore.ieee.org/abstract/document/10264072)  
+  **Y. Du**, Y. Li, H. Liu  
+  *IEEE Access*, **11**, 106347–106360, 2023  
+  **Journal Info:** CAS Partition: **Q1**
 
-**Y. Du**, J. Zhang, X. Cheng, Y. Lu, D. Li, W. Tian
-
-*Geophysical Research Letters*, **52**(8), e2024GL113993, 2025
-
-- A study exploring video prediction methods for forecasting sudden stratospheric warming events.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='images/500x300.png' alt="ENSO" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A New Hybrid Prediction Method of El Niño/La Niña Events by Combining TimesNet and ARIMA](#)
-
-**Y. Du**, Y. Li, H. Liu
-
-*IEEE Access*, **11**, 106347–106360, 2023
-
-- A hybrid framework combining TimesNet and ARIMA for El Niño/La Niña event prediction.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSRN</div><img src='images/500x300.png' alt="Drought" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dcswinlstm: A Fusion Method on Multiscale Spatiotemporal Meteorological Drought Prediction](#)
-
-H. Peng, C. Wu, **Y. Du**, H. Liu
-
-*Available at SSRN*, 5274848
-
-- A multiscale spatiotemporal fusion method for meteorological drought prediction.
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2025*: National Scholarship for Master’s Students.
