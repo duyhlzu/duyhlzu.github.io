@@ -22,7 +22,7 @@ I am currently an M.S. student at the College of Atmospheric Sciences, **Lanzhou
 My research focuses on the intersection of **artificial intelligence and atmospheric science**, with particular interests in **video prediction**, **video diffusion models**, **weather and climate modeling**, **precipitation nowcasting**, and **spatiotemporal predictive learning**. I am especially interested in developing learning-based approaches for complex atmospheric processes and extreme event prediction.
 
 # 🔥 News
-- *2026*: &nbsp;One paper, **GMG: A Video Prediction Method Based on Global Focus and Motion Guided**, was published in **IEEE Transactions on Circuits and Systems for Video Technology**.
+- *2026*: &nbsp;One paper, **GMG: A Video Prediction Method Based on Global Focus and Motion Guided**, was published in **IEEE Transactions on Circuits and Systems for Video Technology**<a href="https://arxiv.org/abs/2503.11297" alt="arXiv"><img src="https://img.shields.io/badge/arXiv-2503.11297-b31b1b.svg?style=flat" /></a>.
 - *2025*: &nbsp;Published **A Global Spatial–Temporal Attention Method Based on Motion Decomposition for Precipitation Nowcasting** in **Applied Soft Computing**.
 - *2025*: &nbsp;Published **Predicting Sudden Stratospheric Warmings Using Video Prediction Methods** in **Geophysical Research Letters**.
 - *2023*: &nbsp;Published **A new hybrid prediction method of El Niño/La Niña events by Combining TimesNet and ARIMA** in **IEEE Access**.
@@ -37,7 +37,6 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 **Y. Du**, H. Liu, H. Peng, X. Cheng, C. Wu, J. Zhang
 
 *IEEE Transactions on Circuits and Systems for Video Technology*, 2026  
-<a href="https://github.com/duyhlzu/GMG" style="color:#059669;"><strong>Code</strong></a>
 <a href="https://img.shields.io/github/stars/duyhlzu/GMG" alt="arXiv">
     <img src="https://img.shields.io/github/stars/duyhlzu/GMG" /></a> 
 
