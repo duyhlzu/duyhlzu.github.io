@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an M.S. student at the College of Atmospheric Sciences, **Lanzhou University**, supervised by **Prof. Jiankai Zhang**. From **2025 to 2026**, I am also a visiting student at the Institute of Atmospheric Physics, **Chinese Academy of Sciences (IAP, CAS)**, where I work with **Associate Prof. Baoxiang Pan** on the application of video diffusion models to meteorological forecasting. I received my B.S. in **Information and Computing Science** from **Central South University of Forestry and Technology** in 2024, where I was supervised by **Associate Prof. Hui Liu**.
+I am currently an M.S. student at the College of Atmospheric Sciences, **Lanzhou University (兰州大学)**, supervised by **Prof. Jiankai Zhang (张健恺教授)**. From **2025 to 2026**, I am also a visiting student at the Institute of Atmospheric Physics, **Chinese Academy of Sciences (IAP, CAS)**, where I work with **Associate Prof. Baoxiang Pan (潘宝祥副研究员)** on the application of video diffusion models to meteorological forecasting. I received my B.S. in **Information and Computing Science** from **Central South University of Forestry and Technology** in 2024, where I was supervised by **Associate Prof. Hui Liu (刘晖副教授)**.
 
 My research focuses on the intersection of **artificial intelligence and atmospheric science**, with particular interests in **video prediction**, **video diffusion models**, **weather and climate modeling**, **precipitation nowcasting**, and **spatiotemporal predictive learning**. I am especially interested in developing learning-based approaches for complex atmospheric processes and extreme event prediction.
 
