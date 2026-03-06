@@ -83,9 +83,9 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 
 
 # 🎖 Honors and Awards
-- *2025*: National Scholarship for Master’s Students (Top 0.2%).
+- *2025*: National Scholarship for Master’s Students (Top 1%).
 - *2024*: Hunan Provincial Outstanding Graduates.
-- *2023*: TaoZhu Scholarship (Top 0.1%).
+- *2023*: TaoZhu Scholarship (Top 1%).
 - *2023*: Finalist, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM) (Top 1%).
 - *2023*: National Undergraduate Innovation and Entrepreneurship Training Program Project.
 
