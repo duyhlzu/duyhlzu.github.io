@@ -36,16 +36,16 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 
 **Y. Du**, H. Liu, H. Peng, X. Cheng, C. Wu, J. Zhang
 
-*IEEE Transactions on Circuits and Systems for Video Technology*, 2026
+*IEEE Transactions on Circuits and Systems for Video Technology*, 2026  
+<a href="https://github.com/duyhlzu/GMG" style="color:#059669;"><strong>Code</strong></a>
+<a href="https://img.shields.io/github/stars/duyhlzu/GMG" alt="arXiv">
+    <img src="https://img.shields.io/github/stars/duyhlzu/GMG" /></a> 
 
 **Journal Info (2025):** 
 <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 11.1</span>
 <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
 <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">CCF B</span>
 
-<a href="https://github.com/duyhlzu/GMG"><strong>Code</strong></a>
-<a href="https://img.shields.io/github/stars/duyhlzu/GMG" alt="arXiv">
-    <img src="https://img.shields.io/github/stars/duyhlzu/GMG" /></a>
   
 - A video prediction method that integrates global focus and motion-guided modeling for spatiotemporal prediction tasks.
 </div>
