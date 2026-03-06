@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuhao Du"
-  avatar           : "assets/img/profile.jpg"
+  avatar           : "images/duyuhao.jpg"
   bio              : "M.S. student at the College of Atmospheric Sciences, Lanzhou University."
-  location         : "Lanzhou, China"
+  location         : "Beijing, China"
   employer         : "Lanzhou University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=U2NkFvoAAAAJ&hl=zh-CN"
   email            : "duyh2024@lzu.edu.cn"
-  researchgate     :
+  researchgate     : "https://www.researchgate.net/profile/Yuhao-Du-8?ev=hdr_xprf&_sg=C84l-gaQnU8-Tkex22LzvRn-PRg8Ivrd9FvVyvAAYOQZB6bEcS2jEfDZrIEwh09u0p1JXtu6vcEFmZZYOnZR-qDk"
   uri              : "https://duyhlzu.github.io"
   bitbucket        :
   codepen          :
