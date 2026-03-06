@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuhao Du"
-description              : "Academic homepage of Yuhao Du, M.S. student at the College of Atmospheric Sciences, Lanzhou University, working on AI for weather and climate modeling, video prediction, and precipitation nowcasting."
+description              : "M.S. student at Lanzhou University"
 repository               : "duyhlzu/duyhlzu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuhao Du"
+  name             : "Yuhao Du (杜羽皓)"
   avatar           : "images/duyuhao.jpg"
   bio              : "M.S. student at the College of Atmospheric Sciences, Lanzhou University."
   location         : "Beijing, China"
-  employer         : "Lanzhou University"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=U2NkFvoAAAAJ&hl=zh-CN"
   email            : "duyh2024@lzu.edu.cn"
