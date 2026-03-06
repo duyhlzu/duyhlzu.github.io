@@ -41,7 +41,10 @@ You can find more details on my publications through my <a href='https://scholar
 
 *IEEE Transactions on Circuits and Systems for Video Technology*, 2026
 
-**Journal Info(2025):** IF=11.1 | JCR Q1 | CCF B
+**Journal Info (2025):** 
+<span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 11.1</span>
+<span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
+<span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">CCF B</span>
 
 - A video prediction method that integrates global focus and motion-guided modeling for spatiotemporal prediction tasks.
 </div>
@@ -56,7 +59,9 @@ You can find more details on my publications through my <a href='https://scholar
 
 *Applied Soft Computing*, **180**, 113314, 2025
 
-**Journal Info(2025):** IF=6.6 | JCR Q1
+**Journal Info (2025):** 
+<span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 6.6</span>
+<span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
 
 - A global spatiotemporal attention framework based on motion decomposition for precipitation nowcasting.
 </div>
@@ -65,12 +70,17 @@ You can find more details on my publications through my <a href='https://scholar
 - [**Predicting Sudden Stratospheric Warmings Using Video Prediction Methods**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL113993)  
   **Y. Du**, J. Zhang, X. Cheng, Y. Lu, D. Li, W. Tian  
   *Geophysical Research Letters*, **52**(8), e2024GL113993, 2025  
-  **Journal Info(2025):** IF=4.6 | JCR Q1 | Nature Index Journal
+  **Journal Info (2025):**
+  <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 4.6</span>
+  <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
+  <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">Nature Index Journal</span>
 
 - [**A New Hybrid Prediction Method of El Niño/La Niña Events by Combining TimesNet and ARIMA**](https://ieeexplore.ieee.org/abstract/document/10264072)  
   **Y. Du**, Y. Li, H. Liu  
   *IEEE Access*, **11**, 106347–106360, 2023  
-  **Journal Info(2025):** IF=3.6 | JCR Q2
+  **Journal Info (2025):**
+  <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 3.6</span>
+  <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q2</span>
 
 
 # 🎖 Honors and Awards
@@ -78,8 +88,11 @@ You can find more details on my publications through my <a href='https://scholar
 - *2023*: Finalist, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM).
 
 # 📖 Educations
-- *2024 - 2027 (expected)*, **Lanzhou University**, College of Atmospheric Sciences, M.S. Student. Advisor: **Prof. Jiankai Zhang**.
-- *2020 - 2024*, **Central South University of Forestry and Technology**, B.S. in Information and Computing Science. Advisor: **Associate Prof. Hui Liu**.
+- *2024.09 - 2027.06 (expected)*, **Lanzhou University**, College of Atmospheric Sciences, M.S. Student. Advisor: **Prof. Jiankai Zhang**. ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=9QurDQkAAAAJ)).
+- *2020.09 - 2024.06*, **Central South University of Forestry and Technology**, B.S. in Information and Computing Science. Advisor: **Associate Prof. Hui Liu**.
+
+# 🔬 Academic Exchange
+- *2025.09 - 2026.09 (expected)*, **Visiting Student**, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS), China. Advisor: **Prof. Baoxiang Pan** ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=DFgFVVYAAAAJ&view_op=list_works&sortby=pubdate)).
 
 # Academic Services
 - Reviewer for **ICME 2025**
