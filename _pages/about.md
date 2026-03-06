@@ -22,7 +22,8 @@ I am currently an M.S. student at the College of Atmospheric Sciences, **Lanzhou
 My research focuses on the intersection of **artificial intelligence and atmospheric science**, with particular interests in **video prediction**, **video diffusion models**, **weather and climate modeling**, **precipitation nowcasting**, and **spatiotemporal predictive learning**. I am especially interested in developing learning-based approaches for complex atmospheric processes and extreme event prediction.
 
 # 🔥 News
-- *2026*: &nbsp;One paper, **GMG: A Video Prediction Method Based on Global Focus and Motion Guided**, was published in **IEEE Transactions on Circuits and Systems for Video Technology**.
+- *2026*: &nbsp;One paper, **GMG: A Video Prediction Method Based on Global Focus and Motion Guided**, was accepted by **IEEE Transactions on Circuits and Systems for Video Technology**.
+- *2025*: &nbsp;Worked as a visiting student at the Institute of Atmospheric Physics, Chinese Academy of Sciences.
 - *2025*: &nbsp;Published **A Global Spatial–Temporal Attention Method Based on Motion Decomposition for Precipitation Nowcasting** in **Applied Soft Computing**.
 - *2025*: &nbsp;Published **Predicting Sudden Stratospheric Warmings Using Video Prediction Methods** in **Geophysical Research Letters**.
 - *2023*: &nbsp;Published **A new hybrid prediction method of El Niño/La Niña events by Combining TimesNet and ARIMA** in **IEEE Access**.
