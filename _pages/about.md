@@ -22,7 +22,7 @@ I am currently an M.S. student at the College of Atmospheric Sciences, **Lanzhou
 My research focuses on the intersection of **artificial intelligence and atmospheric science**, with particular interests in **video prediction**, **video diffusion models**, **weather and climate modeling**, **precipitation nowcasting**, and **spatiotemporal predictive learning**. I am especially interested in developing learning-based approaches for complex atmospheric processes and extreme event prediction.
 
 # 🔥 News
-- *2026*: &nbsp;One paper, **GMG: A Video Prediction Method Based on Global Focus and Motion Guided**, was published in **IEEE Transactions on Circuits and Systems for Video Technology**<a href="https://arxiv.org/abs/2503.11297" alt="arXiv"><img src="https://img.shields.io/badge/arXiv-2503.11297-b31b1b.svg?style=flat" /></a>.
+- *2026*: &nbsp;One paper, **GMG: A Video Prediction Method Based on Global Focus and Motion Guided**, was published in **IEEE Transactions on Circuits and Systems for Video Technology**. <a href="https://arxiv.org/abs/2503.11297" alt="arXiv"><img src="https://img.shields.io/badge/arXiv-2503.11297-b31b1b.svg?style=flat" /></a>
 - *2025*: &nbsp;Published **A Global Spatial–Temporal Attention Method Based on Motion Decomposition for Precipitation Nowcasting** in **Applied Soft Computing**.
 - *2025*: &nbsp;Published **Predicting Sudden Stratospheric Warmings Using Video Prediction Methods** in **Geophysical Research Letters**.
 - *2023*: &nbsp;Published **A new hybrid prediction method of El Niño/La Niña events by Combining TimesNet and ARIMA** in **IEEE Access**.
@@ -32,13 +32,11 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/tcsvt.png' alt="GMG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GMG: A Video Prediction Method Based on Global Focus and Motion Guided](https://ieeexplore.ieee.org/abstract/document/11361248/)
+[GMG: A Video Prediction Method Based on Global Focus and Motion Guided](https://ieeexplore.ieee.org/abstract/document/11361248/) <a href="https://img.shields.io/github/stars/duyhlzu/GMG" alt="arXiv"><img src="https://img.shields.io/github/stars/duyhlzu/GMG" /></a> 
 
 **Y. Du**, H. Liu, H. Peng, X. Cheng, C. Wu, J. Zhang
 
-*IEEE Transactions on Circuits and Systems for Video Technology*, 2026  
-<a href="https://img.shields.io/github/stars/duyhlzu/GMG" alt="arXiv">
-    <img src="https://img.shields.io/github/stars/duyhlzu/GMG" /></a> 
+*IEEE Transactions on Circuits and Systems for Video Technology*, 2026
 
 **Journal Info (2025):** 
 <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 11.1</span>
