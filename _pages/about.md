@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an **M.S. student at the College of Atmospheric Sciences, Lanzhou University**, supervised by **Prof. Jiankai Zhang**. I received my **B.S. in Information and Computing Science** from **Central South University of Forestry and Technology** in 2024, where I was supervised by **Associate Prof. Hui Liu**.
+I am currently an **M.S. student at the College of Atmospheric Sciences, Lanzhou University**, supervised by **Prof. Jiankai Zhang**. From **2025 to 2026**, I am also a **visiting student at the Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS)**, where I work with **Associate Prof. Baoxiang Pan** on the application of **video diffusion models** to **meteorological forecasting**. I received my **B.S. in Information and Computing Science** from **Central South University of Forestry and Technology** in 2024, where I was supervised by **Associate Prof. Hui Liu**.
 
-My research focuses on the intersection of **artificial intelligence and atmospheric science**, with particular interests in **video prediction**, **weather and climate modeling**, **precipitation nowcasting**, and **spatiotemporal deep learning**. I am especially interested in developing learning-based approaches for complex atmospheric processes and extreme event prediction.
+My research focuses on the intersection of **artificial intelligence and atmospheric science**, with particular interests in **video prediction**, **video diffusion models**, **weather and climate modeling**, **precipitation nowcasting**, and **spatiotemporal predictive learning**. I am especially interested in developing learning-based approaches for complex atmospheric processes and extreme event prediction.
 
 You can find more details on my publications through my <a href='https://scholar.google.com/citations?user=U2NkFvoAAAAJ&hl=zh-CN'>Google Scholar profile</a> and ORCID: <a href='https://orcid.org/0009-0006-3384-7170'>0009-0006-3384-7170</a>.  
 <a href='https://scholar.google.com/citations?user=U2NkFvoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -85,6 +85,7 @@ You can find more details on my publications through my <a href='https://scholar
 
 # 🎖 Honors and Awards
 - *2025*: National Scholarship for Master’s Students.
+- *2024*: Hunan Provincial Outstanding Graduates.
 - *2023*: Finalist, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM).
 
 # 📖 Educations
@@ -92,11 +93,11 @@ You can find more details on my publications through my <a href='https://scholar
 - *2020.09 - 2024.06*, **Central South University of Forestry and Technology**, B.S. in Information and Computing Science. Advisor: **Associate Prof. Hui Liu**.
 
 # 🔬 Academic Exchange
-- *2025.09 - 2026.09 (expected)*, **Visiting Student**, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS), China. Advisor: **Prof. Baoxiang Pan** ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=DFgFVVYAAAAJ&view_op=list_works&sortby=pubdate)).
+- *2025.09 - 2026.09 (expected)*, **Visiting Student**, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS), China. Advisor: **Associate Prof. Baoxiang Pan** ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=DFgFVVYAAAAJ&view_op=list_works&sortby=pubdate)).
 
 # Academic Services
-- Reviewer for **ICME 2025**
 - Reviewer for **ICASSP 2026**
+- Reviewer for **ICME 2025**
 - Reviewer for **IEEE AVSS 2025**
 - Reviewer for **Geophysical Research Letters (GRL)**
 - Reviewer for **Journal of Geophysical Research – Machine Learning**
