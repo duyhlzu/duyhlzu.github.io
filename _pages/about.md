@@ -43,11 +43,15 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
 <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">CCF B</span>
 
+<a href="https://github.com/duyhlzu/GMG"><strong>Code</strong></a>
+<a href="https://img.shields.io/github/stars/duyhlzu/GMG" alt="arXiv">
+    <img src="https://img.shields.io/github/stars/duyhlzu/GMG" /></a>
+  
 - A video prediction method that integrates global focus and motion-guided modeling for spatiotemporal prediction tasks.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2025</div><img src='images/500x300.png' alt="Nowcasting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2025</div><img src='images/asc.png' alt="Nowcasting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Global Spatial–Temporal Attention Method Based on Motion Decomposition for Precipitation Nowcasting](https://www.sciencedirect.com/science/article/abs/pii/S1568494625006258)
