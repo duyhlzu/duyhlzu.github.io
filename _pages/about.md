@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yuhao Du"
-excerpt: "Academic homepage of Yuhao Du"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an **M.S. student at the College of Atmospheric Sciences, Lanzhou University**, supervised by **Prof. Jiankai Zhang**. From **2025 to 2026**, I am also a **visiting student at the Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS)**, where I work with **Associate Prof. Baoxiang Pan** on the application of **video diffusion models** to **meteorological forecasting**. I received my **B.S. in Information and Computing Science** from **Central South University of Forestry and Technology** in 2024, where I was supervised by **Associate Prof. Hui Liu**.
+I am currently an M.S. student at the College of Atmospheric Sciences, **Lanzhou University**, supervised by **Prof. Jiankai Zhang**. From **2025 to 2026**, I am also a visiting student at the Institute of Atmospheric Physics, **Chinese Academy of Sciences (IAP, CAS)**, where I work with **Associate Prof. Baoxiang Pan** on the application of video diffusion models to meteorological forecasting. I received my B.S. in **Information and Computing Science** from **Central South University of Forestry and Technology** in 2024, where I was supervised by **Associate Prof. Hui Liu**.
 
 My research focuses on the intersection of **artificial intelligence and atmospheric science**, with particular interests in **video prediction**, **video diffusion models**, **weather and climate modeling**, **precipitation nowcasting**, and **spatiotemporal predictive learning**. I am especially interested in developing learning-based approaches for complex atmospheric processes and extreme event prediction.
 
@@ -32,7 +32,7 @@ You can find more details on my publications through my <a href='https://scholar
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/500x300.png' alt="GMG" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/tcsvt.png' alt="GMG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GMG: A Video Prediction Method Based on Global Focus and Motion Guided](https://ieeexplore.ieee.org/abstract/document/11361248/)
