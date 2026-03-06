@@ -32,8 +32,6 @@ You can find more details on my publications through my <a href='https://scholar
 
 # 📝 Publications
 
-> *CAS partition information may vary by year. The labels below are for homepage display only.*
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/500x300.png' alt="GMG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,7 +41,7 @@ You can find more details on my publications through my <a href='https://scholar
 
 *IEEE Transactions on Circuits and Systems for Video Technology*, 2026
 
-**Journal Info:** **CCF B** | CAS Partition: **Top Journal**
+**Journal Info(2025):** IF=11.1 | JCR Q1 | CCF B
 
 - A video prediction method that integrates global focus and motion-guided modeling for spatiotemporal prediction tasks.
 </div>
@@ -58,7 +56,7 @@ You can find more details on my publications through my <a href='https://scholar
 
 *Applied Soft Computing*, **180**, 113314, 2025
 
-**Journal Info:** CAS Partition: **Top Journal**
+**Journal Info(2025):** IF=6.6 | JCR Q1
 
 - A global spatiotemporal attention framework based on motion decomposition for precipitation nowcasting.
 </div>
@@ -67,12 +65,12 @@ You can find more details on my publications through my <a href='https://scholar
 - [**Predicting Sudden Stratospheric Warmings Using Video Prediction Methods**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL113993)  
   **Y. Du**, J. Zhang, X. Cheng, Y. Lu, D. Li, W. Tian  
   *Geophysical Research Letters*, **52**(8), e2024GL113993, 2025  
-  **Journal Info:** CAS Partition: **Top Journal**
+  **Journal Info(2025):** IF=4.6 | JCR Q1 | Nature Index Journal
 
 - [**A New Hybrid Prediction Method of El Niño/La Niña Events by Combining TimesNet and ARIMA**](https://ieeexplore.ieee.org/abstract/document/10264072)  
   **Y. Du**, Y. Li, H. Liu  
   *IEEE Access*, **11**, 106347–106360, 2023  
-  **Journal Info:** CAS Partition: **Q1**
+  **Journal Info(2025):** IF=3.6 | JCR Q2
 
 
 # 🎖 Honors and Awards
