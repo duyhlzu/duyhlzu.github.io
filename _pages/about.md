@@ -45,6 +45,7 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 
   
 - A video prediction method that integrates global focus and motion-guided modeling for spatiotemporal prediction tasks.
+- Achieve new SOTA on MovingMNIST, TaxiBJ, CIKM2017, Shanghai2020, T2M and Typhoon Datasets.
 </div>
 </div>
 
@@ -82,13 +83,16 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 
 
 # 🎖 Honors and Awards
-- *2025*: National Scholarship for Master’s Students.
+- *2025*: National Scholarship for Master’s Students (Top 0.2%).
 - *2024*: Hunan Provincial Outstanding Graduates.
-- *2023*: Finalist, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM).
+- *2023*: TaoZhu Scholarship (Top 0.1%).
+- *2023*: Finalist, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM) (Top 1%).
+- *2023*: National Undergraduate Innovation and Entrepreneurship Training Program Project.
 
 # 📖 Educations
 - *2024.09 - 2027.06 (expected)*, **Lanzhou University**, College of Atmospheric Sciences, M.S. Student. Advisor: **Prof. Jiankai Zhang**. ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=9QurDQkAAAAJ)).
-- *2020.09 - 2024.06*, **Central South University of Forestry and Technology**, B.S. in Information and Computing Science. Advisor: **Associate Prof. Hui Liu**.
+- *2020.09 - 2024.06*, **Central South University of Forestry and Technology**, School of Computer Science and Mathematics, B.S. in Information and Computing Science. Advisor: **Associate Prof. Hui Liu**.
+- *2017.09 - 2020.06*, **Nan chang No.2 Middle School**
 
 # 🔬 Academic Exchange
 - *2025.09 - 2026.09 (expected)*, **Visiting Student**, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS), China. Advisor: **Associate Prof. Baoxiang Pan** ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=DFgFVVYAAAAJ&view_op=list_works&sortby=pubdate)).
