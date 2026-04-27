@@ -74,6 +74,13 @@ My research focuses on the intersection of **artificial intelligence and atmosph
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">Nature Index Journal</span>
 
+- [**DCSwinLSTM for Spatiotemporal Meteorological Drought Forecasting**](https://www.cell.com/iscience/fulltext/S2589-0042(26)01277-0) 
+  H. Peng, C. Wu, **Y. Du**, H. Liu  
+  *iScience*, 2026 
+  **Journal Info (2025):**
+  <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 4.1</span>
+  <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
+  
 - [**A New Hybrid Prediction Method of El Niño/La Niña Events by Combining TimesNet and ARIMA**](https://ieeexplore.ieee.org/abstract/document/10264072)  
   **Y. Du**, Y. Li, H. Liu  
   *IEEE Access*, **11**, 106347–106360, 2023  
