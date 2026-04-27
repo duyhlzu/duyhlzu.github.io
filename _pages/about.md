@@ -54,7 +54,7 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 
 [A Global Spatial–Temporal Attention Method Based on Motion Decomposition for Precipitation Nowcasting](https://www.sciencedirect.com/science/article/abs/pii/S1568494625006258)
 
-**Y. H. Du**, Y. H. Li, Z. Z. Zeng, H. Liu, J. K. Zhang
+**Y. Du**, Y. Li, Z. Zeng, H. Liu, J. Zhang
 
 *Applied Soft Computing*, **180**, 113314, 2025
 
@@ -73,21 +73,20 @@ My research focuses on the intersection of **artificial intelligence and atmosph
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 4.6</span>
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">Nature Index Journal</span>
-
-- [**DCSwinLSTM for Spatiotemporal Meteorological Drought Forecasting**](https://www.cell.com/iscience/fulltext/S2589-0042(26)01277-0) 
-  H. Peng, C. Wu, **Y. Du**, H. Liu  
-  *iScience*, 2026
+  
+- [**DCSwinLSTM for Spatiotemporal Meteorological Drought Forecasting**](https://www.cell.com/iscience/fulltext/S2589-0042(26)01277-0)  
+  H. Peng, C. Wu, **Y. Du**, H. Liu <br>
+  *iScience*, 2026 <br>
   **Journal Info (2025):**
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 4.1</span>
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q1</span>
-  
+
 - [**A New Hybrid Prediction Method of El Niño/La Niña Events by Combining TimesNet and ARIMA**](https://ieeexplore.ieee.org/abstract/document/10264072)  
   **Y. Du**, Y. Li, H. Liu  
   *IEEE Access*, **11**, 106347–106360, 2023  
   **Journal Info (2025):**
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">IF 3.6</span>
   <span style="display:inline-block;padding:2px 8px;margin:2px 6px 2px 0;border-radius:999px;background:#f3f6fb;font-size:0.9em;">JCR Q2</span>
-
 
 # 🎖 Honors and Awards
 - *2025*: National Scholarship for Master’s Students (Top 1%).
