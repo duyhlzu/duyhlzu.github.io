@@ -66,6 +66,10 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 </div>
 </div>
 
+- [When the Past Matters: FlashBack Memory for Precipitation Nowcasting](https://arxiv.org/abs/2606.16342) <a href="https://arxiv.org/abs/2606.16342" alt="arXiv"><img  src="https://img.shields.io/badge/arXiv-2503.11297-b31b1b.svg?style=flat" /></a> <a href="https://img.shields.io/github/stars/duyhlzu/GMG" alt="arXiv"><img  src="https://img.shields.io/github/stars/duyhlzu/Flash-Back-Memory" /></a> 
+  **Y. Du**, B. Huang, C. Wu, J. Zhang
+  Preprint
+
 - [**Predicting Sudden Stratospheric Warmings Using Video Prediction Methods**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL113993)  
   **Y. Du**, J. Zhang, X. Cheng, Y. Lu, D. Li, W. Tian  
   *Geophysical Research Letters*, **52**(8), e2024GL113993, 2025  
