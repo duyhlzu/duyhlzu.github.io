@@ -104,7 +104,8 @@ My research focuses on the intersection of **artificial intelligence and atmosph
 - *2020.09 - 2024.06*, **Central South University of Forestry and Technology**, School of Computer Science and Mathematics, B.S. in Information and Computing Science. Advisor: **Associate Prof. Hui Liu**.
 - *2017.09 - 2020.06*, **Nan chang No.2 Middle School**.
 
-# 🔬 Academic Exchange
+# 🔬 Academic Exchanges
+- *2025.07*, **AOGS2025**, Poster, Singapore
 - *2025*, **Visiting Student**, Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP, CAS), China. Advisor: **Associate Prof. Baoxiang Pan**.
 
 # Academic Services
